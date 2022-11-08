@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <color name="grey">#808588</color>
+</resources>
